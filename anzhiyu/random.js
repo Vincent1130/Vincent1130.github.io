@@ -1,1 +1,1 @@
-var posts=["2023/06/07/Vue2学习-day1/","2023/06/08/Vue2学习-day2/","2023/06/02/hello-world/","2023/06/04/first-article/","2023/06/08/前端随记/note01/","2023/06/05/阿里前端规范（Vue）/","2023/06/08/前端随记/note02/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/06/04/first-article/","2023/06/07/Vue2学习-day1/","2023/06/02/hello-world/","2023/06/08/Vue2学习-day2/","2023/06/05/阿里前端规范（Vue）/","2023/06/08/前端随记/note01/","2023/06/08/前端随记/note02/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
